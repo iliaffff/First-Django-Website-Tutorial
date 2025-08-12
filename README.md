@@ -1,0 +1,1 @@
+Going ahead and developing my first website with Django
